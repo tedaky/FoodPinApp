@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>MYUBK669YP.edu.mnsu.FoodPin</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>MYUBK669YP.edu.mnsu.FoodPin</string>
+	</array>
+</dict>
+</plist>
